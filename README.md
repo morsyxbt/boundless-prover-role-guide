@@ -18,16 +18,15 @@ atleast 10GB of SSD
 ## Now Follow the steps
 
 go to **https://guild.xyz/boundless-xyz**
-connect your **Burner EVM Wallet**
+connect your **Main EVM Wallet**
 
-**Note:**
-what you can do is relink a burner wallet in your guild just to claim role later you can switch back to your main wallet
+**Note**
+add a secondary burner wallet in your guild just to claim role
+don't remove the primary ( main ) wallet
 
-**If you are visitng guild first time**
-connect A Burner Wallet
-link your **discord** and **gitHub**
+now link your **discord** and **gitHub**
 
-Now create an **Alchemy Base Mainnet RPC URL**
+create an **Alchemy Base Mainnet RPC URL**
 - go to [https://www.alchemy.com/](https://www.alchemy.com/)
 - create a new app for **Base Mainnet**
 - copy your RPC URL (Format: `https://base-mainnet.g.alchemy.com/v2/YOUR_API_KEY`)
