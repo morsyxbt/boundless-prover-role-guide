@@ -1,6 +1,6 @@
-#  Morsy: Boundless Prover and Dev Role Guide
+#  Morsy: Boundless Prover and Dev Role Claim Guide
 
-get instantly Boundless Guild roles (`Dev`, `Prover`, or both)
+Get instantly Boundless Guild roles (`Dev`, `Prover`, or both)
 
 Before running the script, **make sure you have**:
 
@@ -10,21 +10,22 @@ Before running the script, **make sure you have**:
 
 ## Prerequisites
 
-You can run this in local pc/laptop or any vps
+you can run this in local pc/laptop or any vps
 system requirements:
 atleast 4GB of memory
 atleast 10GB of SSD
 
+## Follow the steps:
 
-Go to **https://guild.xyz/boundless-xyz**
-Connect your **MetaMask wallet**
-What you can do is relink a burner wallet in your guild, just to claim role later you can switch back to your main wallet
+go to **https://guild.xyz/boundless-xyz**
+connect your **MetaMask wallet**
+what you can do is relink a burner wallet in your guild, just to claim role later you can switch back to your main wallet
 
 
 **If you are visitng first time**
-Connect A Burner Wallet
-Link your **Discord** and **GitHub** accounts
-Create an **Alchemy Base Mainnet RPC URL**
+connect A Burner Wallet
+link your **Discord** and **GitHub** accounts
+create an **Alchemy Base Mainnet RPC URL**
 
    - Go to [https://www.alchemy.com/](https://www.alchemy.com/)
    - Create a new app for **Base Mainnet**
@@ -94,3 +95,5 @@ https://guild.xyz/boundless-xyz
 
 
 ---
+
+## Made With ❤️ by Morsy
