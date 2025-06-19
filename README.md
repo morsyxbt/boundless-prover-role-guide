@@ -1,4 +1,4 @@
-#  Morsy: Boundless Prover and Dev Role Claim Guide
+#  Morsy's: Boundless Prover and Dev Role Claim Guide
 
 Get instantly Boundless Guild roles (`Dev`, `Prover`, or both)
 
