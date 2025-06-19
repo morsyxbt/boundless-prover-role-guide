@@ -1,57 +1,59 @@
-#  Morsy's: Boundless Prover and Dev Role Claim Guide
+# 🧩Boundless Prover and Dev Role Guide
 
-Get instantly Boundless Guild roles (`Dev`, `Prover`, or both)
+Get Boundless Guild Roles (`Dev`, `Prover`, or both) Instantly
+Before running the script **make sure you have**
 
-Before running the script, **make sure you have**:
-
-- A **GitHub account older than 6 months**
-- A **Discord account older than 6 months**
-- A **Burner EVM wallet**
+**GitHub Account Older Than 6 Months**
+**Discord Account Older Than 6 Months**
+**Burner EVM Wallet**
 
 ## Prerequisites
+you can run this in
+local pc, laptop or any vps
 
-you can run this in local pc/laptop or any vps
-system requirements:
+## System Requirements
 atleast 4GB of memory
 atleast 10GB of SSD
 
-## Follow the steps:
+## Now Follow the steps
 
 go to **https://guild.xyz/boundless-xyz**
-connect your **MetaMask wallet**
-what you can do is relink a burner wallet in your guild, just to claim role later you can switch back to your main wallet
+connect your **Burner EVM Wallet**
 
+**Note:**
+what you can do is relink a burner wallet in your guild just to claim role later you can switch back to your main wallet
 
-**If you are visitng first time**
+**If you are visitng guild first time**
 connect A Burner Wallet
-link your **Discord** and **GitHub** accounts
-create an **Alchemy Base Mainnet RPC URL**
+link your **discord** and **gitHub**
 
-   - Go to [https://www.alchemy.com/](https://www.alchemy.com/)
-   - Create a new app for **Base Mainnet**
-   - Copy your RPC URL (Format: `https://base-mainnet.g.alchemy.com/v2/YOUR_API_KEY`)
+Now create an **Alchemy Base Mainnet RPC URL**
+- go to [https://www.alchemy.com/](https://www.alchemy.com/)
+- create a new app for **Base Mainnet**
+- copy your RPC URL (Format: `https://base-mainnet.g.alchemy.com/v2/YOUR_API_KEY`)
 
 ---
 
 ## Required Balances
 
 | Role | Requirements |
-|------|--------------|
-| Prover | `10 USDC` on base chain and $1-2 ETH On Base Chain |
-| Dev    | `0.000001 ETH` on base chain and $1-2 ETH On Base|
-| Both   | `10 USDC + 0.000001 ETH` and $1-2 ETH for fees both on base chain |
+|--------|--------------|
+| Prover | `10 USDC` + gas fee |
+| Dev    | `0.000001 ETH` + gas fee |
+| Both   | `10 USDC + 0.000001 ETH` + $1-2 gas fee |
+
+**Note:** everything should be on Base chain
 
 ---
 
-## ⚙️ Installation Steps
+## Installation Steps
 
-### 1. Connect to your server ( skip this step if you running on local pc/laptop )
+1. Connect to your server ( skip this step if you running on local pc/laptop )
 
 ```bash
 ssh root@your-server-ip
 
 ```
-
 2. Install dependencies
 ```
 sudo apt update && sudo apt install -y curl git
@@ -62,9 +64,7 @@ bash <(curl -s https://raw.githubusercontent.com/morsyxbt/boundless-prover-dev/m
 ```
 be patient, it may take some time
 
-
 ---
-
 now enter your:
 
 alchemy Base RPC URL
@@ -77,13 +77,11 @@ it will check your wallet balance
 
 then automatically submit the transaction(s)
 
-
-
 ---
 
 ✅ After Successful Attempt
 
-You will see a confirmation message like:
+You will see a confirmation message like
 
 ✅ GUILD QUEST COMPLETED!
 🎉 Welcome to the Boundless Network!
