@@ -1,9 +1,7 @@
 # 🧩Boundless Prover and Dev Role Guide
 
 Get Boundless Guild Roles (`Dev`, `Prover`, or both) Instantly
-<img src="https://github.com/user-attachments/assets/c3f395dc-2cca-4e77-9a44-d5d588023d46" alt="preview" width="450"/>
-
-
+![WhatsApp Image 2025-06-19 at 19 27 31_3d5da777](https://github.com/user-attachments/assets/14631462-b961-40ee-9ba3-84653d55e27c)
 Before running the script **make sure you have**
 
 **GitHub Account Older Than 6 Months**
