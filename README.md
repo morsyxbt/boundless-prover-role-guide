@@ -93,4 +93,4 @@ https://guild.xyz/boundless-xyz
 
 ---
 
-## Made With ❤️ by Morsy
+**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
