@@ -39,7 +39,7 @@ create an **Alchemy Base Mainnet RPC URL**
 |--------|--------------|
 | Prover | `0.01 USDC` + gas fee |
 | Dev    | `0.000001 ETH` + gas fee |
-| Both   | `0.01 USDC + 0.000001 ETH` + $1-2 gas fee |
+| Both   | `0.01 USDC + 0.000001 ETH` + $1 gas fee |
 
 **Note:** everything should be on Base chain
 
